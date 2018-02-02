@@ -1,0 +1,5 @@
+.DS_STORE
+/assets/sw.js
+/assets/workbox*.js*
+/assets/build
+/node_modules
